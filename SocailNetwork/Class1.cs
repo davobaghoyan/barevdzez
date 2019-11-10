@@ -43,7 +43,7 @@ namespace SocailNetwork
 
 
         public Profile Userprofile { get; set; }
-
+//barev
 
 
         public void Createprofile ()
